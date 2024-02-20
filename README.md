@@ -30,6 +30,6 @@ Here are some ideas to get you started:-->
     <a href="https://api.whatsapp.com/send?phone=5521982303428&text=Ol%C3%A1!%20Gostaria%20de%20obter%20uma%20informa%C3%A7%C3%A3o%20que%20procurei%20no%20site!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/junior.vasconcellos.12"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="mailto:jhenrique.vasconcellos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>-->
+ <a href="https://www.linkedin.com/in/rick-vasconcellos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 
